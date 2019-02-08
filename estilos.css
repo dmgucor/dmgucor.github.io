@@ -32,6 +32,17 @@ body{/*
 	margin: 40px;
 	background: rgba(256,256,256,0.4);
 }
+.nn{
+	margin:auto;
+
+}
+
+.img-intro{
+margin-bottom:15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 #mini-intro{
 	font-family: 'Playfair Display', arial;
